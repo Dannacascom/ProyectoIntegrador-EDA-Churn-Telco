@@ -62,6 +62,11 @@ El conjunto de datos contiene información demográfica, contractual y relaciona
 - El modelo de regresión logística obtuvo una exactitud cercana al **80 %**.
 - La curva ROC alcanzó un área bajo la curva aproximada de **0.84**.
 
+## Mi aporte al proyecto
+
+Mi principal contribución fue el diseño y desarrollo del **dashboard interactivo en Power BI**, estructurado en tres secciones: resumen general, perfil de clientes y factores de fuga.
+El dashboard integra indicadores clave y visualizaciones que permiten analizar la tasa de abandono, la permanencia de los clientes y la relación de la fuga con variables como el tipo de contrato, el servicio de internet, el método de pago y el soporte técnico.
+
 ## Conclusión
 Este proyecto permitió identificar los principales factores relacionados con la fuga de clientes en una empresa de telecomunicaciones. Los resultados muestran que los contratos de corta duración, el pago mediante cheque electrónico y la falta de servicios como soporte técnico y seguridad en línea aumentan la probabilidad de abandono.
 Por otro lado, los contratos de largo plazo y la contratación de servicios adicionales favorecen la permanencia de los clientes. El modelo de regresión logística permitió estimar la fuga con una exactitud cercana al 80 %, mientras que Power BI facilitó la presentación interactiva de los principales hallazgos.
